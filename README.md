@@ -87,3 +87,15 @@ checkinstall
 也许厉害的计算机er，遇到问题的时候，总是可以通过代码一劳永逸的解决问题吧。
 
 致敬那些写代码解决问题的人～
+
+
+
+## 使用协议
+
+浏览github，经常会看到仓库使用了MIT，GPL协议等。
+
+浏览博客，经常会看到(CC 4.0 BY-SA )这样的版权协议。
+
+它们分别是什么，有什么区别，如何使用呢？
+
+参见：[如何选择开源许可证？-- 阮一峰](https://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html) | [知识共享许可协议 -- wiki](https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE) | [如何为自己的 Github 项目选择开源许可证？](https://zhuanlan.zhihu.com/p/51331026)
