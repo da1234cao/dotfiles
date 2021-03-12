@@ -71,7 +71,8 @@ cd x264 && ./configure --prefix=/usr/local/stow/libx264
 make
 make install
 stow libx264
-# stow -d libx264
+# 删除创建的软链接
+# stow -D libx264
 ```
 
 参考2：[checkinstall包的使用](https://www.cnblogs.com/yandufeng/p/5973708.html)
